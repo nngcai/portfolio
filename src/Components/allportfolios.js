@@ -39,7 +39,7 @@ const portfolios = [
     },
     {
         id: 3,
-        category:'Java',
+        category:'SpringBoot',
         link2: 'www.github.com',
         icon1: <Link to={{pathname: "https://github.com/nngcai/springboot-demo"}} target="_blank" className="icon-holder">
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
