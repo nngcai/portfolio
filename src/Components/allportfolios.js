@@ -38,8 +38,8 @@ const portfolios = [
         title: 'Multiplayer Command Line robot simulation'
     },
     {
-        id: 3,
-        category:'SpringBoot',
+        id: 4,
+        category:'Java',
         link2: 'www.github.com',
         icon1: <Link to={{pathname: "https://github.com/nngcai/springboot-demo"}} target="_blank" className="icon-holder">
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
