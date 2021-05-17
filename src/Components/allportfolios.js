@@ -10,7 +10,6 @@ const portfolios = [
     {
         id: 1,
         category: 'Python',
-        link2: 'www.github.com',
         icon1: <Link to={{pathname: "https://github.com/asardie/Calendar"}} target="_blank" className="icon-holder">
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
                 </Link>,
@@ -20,7 +19,6 @@ const portfolios = [
     {
         id: 2,
         category: 'React Js',
-        link2: 'www.github.com',
         icon1: <Link to={{pathname: "https://github.com/nngcai/portfolio"}} target="_blank" className="icon-holder">
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
                 </Link>,
@@ -30,7 +28,6 @@ const portfolios = [
     {
         id: 3,
         category: 'Java',
-        link2: 'www.github.com',
         icon1: <Link to={{pathname: "https://github.com/wtc-cohort-2020/0045-robot-worlds"}} target="_blank" className="icon-holder">
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
                 </Link>,
@@ -40,7 +37,6 @@ const portfolios = [
     {
         id: 4,
         category:'Java',
-        link2: 'www.github.com',
         icon1: <Link to={{pathname: "https://github.com/nngcai/springboot-demo"}} target="_blank" className="icon-holder">
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
                 </Link>,
