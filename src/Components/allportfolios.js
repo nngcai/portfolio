@@ -45,7 +45,7 @@ const portfolios = [
                     <FontAwesomeIcon icon={faGithub} className="icon gh" />
                 </Link>,
         image: port1,
-        title: 'A quickstart guide on how to create a REST service using SpringBoot for Java'
+        title: 'How to create a REST service using SpringBoot for Java'
     }
 ]
 
