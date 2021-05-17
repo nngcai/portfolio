@@ -1,3 +1,4 @@
+import port1 from '../img/portImages/port2.jpg';
 import port2 from '../img/portImages/port1.jpg';
 import port4 from '../img/portImages/port3.jpg';
 import port6 from '../img/portImages/port5.jpg';
@@ -35,6 +36,16 @@ const portfolios = [
                 </Link>,
         image: port4,
         title: 'Multiplayer Command Line robot simulation'
+    },
+    {
+        id: 3,
+        category:'Java',
+        link2: 'www.github.com',
+        icon1: <Link to={{pathname: "https://github.com/nngcai/springboot-demo"}} target="_blank" className="icon-holder">
+                    <FontAwesomeIcon icon={faGithub} className="icon gh" />
+                </Link>,
+        image: port1,
+        title: 'A quickstart guide on how to create a REST service using SpringBoot for Java'
     }
 ]
 
