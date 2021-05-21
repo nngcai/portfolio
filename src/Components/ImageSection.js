@@ -28,7 +28,7 @@ function ImageSection() {
                         <p>: 25</p>
                         <p>: South African</p>
                         <p>: Xhosa, English</p>
-                        <p>: 141 Sithole Street, Dobsonville, Soweto, Johannesburg</p>
+                        <p>: Johannesburg, South Africa</p>
                     </div>
                 </div>
                 <Link to={{pathname: "https://drive.google.com/file/d/1Y33xTf7firBwvooUYyHXjGRAkwP0I8cJ/view?usp=sharing"}} target="_blank"><button className="btn">Download Cv</button></Link>
