@@ -31,7 +31,7 @@ function ImageSection() {
                         <p>: Johannesburg, South Africa</p>
                     </div>
                 </div>
-                <Link to={{pathname: "https://drive.google.com/file/d/1Y33xTf7firBwvooUYyHXjGRAkwP0I8cJ/view?usp=sharing"}} target="_blank"><button className="btn">Download Cv</button></Link>
+                <Link to={{pathname: "https://drive.google.com/file/d/1d1JJx9XALM4W6cM-1cpeBpE2--eQxL32/view?usp=sharing"}} target="_blank"><button className="btn">Download Cv</button></Link>
             </div>
         </div>
     )

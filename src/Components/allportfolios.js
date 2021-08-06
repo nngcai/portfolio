@@ -1,4 +1,4 @@
-import port1 from '../img/portImages/port2.jpg';
+chimport port1 from '../img/portImages/port2.jpg';
 import port2 from '../img/portImages/port1.jpg';
 import port4 from '../img/portImages/port3.jpg';
 import port6 from '../img/portImages/port5.jpg';
