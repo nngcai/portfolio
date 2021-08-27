@@ -16,7 +16,7 @@ function HomePage() {
                     I am an aspiring Software Engineer and self-taught Web Developer
                     looking to enhance and improve my skills in the ever changing field
                     of tech. Feel free to explore this little world of mine and see what
-                    I've been up to. Enjoy.
+                    I've been up to. Enjoy...
                 </p>
                 <div className="icons">
                     <Link to={{pathname: "https://www.linkedin.com/in/ntsikelelo-ngcai-37ba781b5/"}} target="_blank" className="icon-holder">
